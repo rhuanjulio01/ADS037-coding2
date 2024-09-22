@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4; /* Fundo suave */
+    color: #333; /* Texto escuro */
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50; /* Cor para títulos */
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #ffffff; /* Fundo branco para itens da lista */
+    margin: 10px 0; /* Espaçamento entre itens */
+    padding: 15px;
+    border-radius: 5px; /* Bordas arredondadas */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Sombra suave */
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #2c3e50; /* Cor da linha */
+    margin: 30px 0; /* Espaçamento ao redor */
+}
